@@ -2,7 +2,7 @@
 % This script contains functions to generate a random matrix and check 
 % whether a matrix is a magic square.
 % By: Thea Ishida
-% Student Number: 25129741
+%
 
 % 2a) Write the function randomMatrix(n)
 % randomMatrix(n) - returns a n x n matrix with its elemetns that are
