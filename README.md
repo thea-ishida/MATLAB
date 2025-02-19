@@ -1,2 +1,2 @@
 # MATLAB
-Includes MATLAB scripts for data analysis and visualitzation
+Includes MATLAB scripts for data analysis and visualization
